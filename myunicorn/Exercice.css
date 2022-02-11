@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+background: url(background.png) ;
+}
+
+.bigtittle{
+	background-image: url(rainbow.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 400px 170px ;
+	padding: 70px;
+	text-align: center;
+	margin-top: 30px;
+	color: #C55394;
+	te
+
+}
+p{
+	font-size: 15px;
+}
+
+.tittle{
+	font-size: 20px;
+	margin-top: -10;
+	color: white;
+}
+
+.ender_tittle{
+font-size: 11px;
+margin-top: -3px;
+color: white;
+}
+ul li{
+	float: right;
+	margin-top: -15px;
+	display: inline-block;
+	margin-right: 50px;
+}
+nav{height: 33px;
+	background-color: #C55394;}
+
+ul li{
+	margin-top: -19px;
+	line-height: 30px;
+}
+ul li:hover{
+background-color: #EB43A3;
+}
+div#page{
+	background-color: white;
+border: 5px groove;
+border-radius: 20px;
+color: black;
+margin-right: 16%;
+margin-left: 16%;
+margin-top: -4%;
+margin-bottom: 5%;
+}
+.row{
+display: inline-flex;
+}
+.titre{
+	font-size: 15px;
+	font-family:'courgette' , cursive;
+	color: #C55394;
+}
+
+figure figcaption{
+position: relative;
+	margin-top: -21px;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+
+figure{
+	padding-right: 11px;
+	padding-left: 11px;
+
+}
+
+.litllet{
+	font-size: 15px;
+	font-family: 'courgette' , cursive;
+	color: #C55394;
+}
+button{
+	background-color: #C55394;
+	color: white;
+	padding: 5px;
+}
+div#lieu{
+	font-size: 5px;
+float: right;
+margin-top: -430px;
+margin-right: 330px;
+}
+
+footer{
+	background-color: #C55394;
+	padding: 10px;
+	padding-right: 30px;
+	margin-bottom: auto;
+	text-align: right;
+	color: white;
+	height: 20px;
+}
+
+
